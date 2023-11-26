@@ -1,2 +1,4 @@
 name='Krzysiek'
-print('Mam na imie',name)
+
+for i in range(3):
+    print('Mam na imie',name)
